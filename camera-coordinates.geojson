@@ -12,9 +12,8 @@
       },
       "properties": {
         "CAMERA_ID": 461,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E WHITTIER ST BETWEEN OHIO AND CHAMPION",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -30,9 +29,8 @@
       },
       "properties": {
         "CAMERA_ID": 496,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LIVINGSTON AVE / LILLEY AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -48,9 +46,8 @@
       },
       "properties": {
         "CAMERA_ID": 531,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / S WAYNE AVE",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -66,9 +63,8 @@
       },
       "properties": {
         "CAMERA_ID": 111,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "WEINLAND PARK ELEM SCHOOL - PTZ",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -84,9 +80,8 @@
       },
       "properties": {
         "CAMERA_ID": 171,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "ALLEY WEST OF HIGH ON 10TH AVE",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -102,9 +97,8 @@
       },
       "properties": {
         "CAMERA_ID": 231,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "CHITTENDEN AVE & CLEVELAND AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -120,9 +114,8 @@
       },
       "properties": {
         "CAMERA_ID": 261,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "MAYNARD & CLEVELAND AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -138,9 +131,8 @@
       },
       "properties": {
         "CAMERA_ID": 271,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E HUDSON ST & CLEVELAND AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -156,9 +148,8 @@
       },
       "properties": {
         "CAMERA_ID": 281,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E HUDSON ST & JOYCE AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -174,9 +165,8 @@
       },
       "properties": {
         "CAMERA_ID": 291,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E HUDSON ST & PARKWOOD AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -192,9 +182,8 @@
       },
       "properties": {
         "CAMERA_ID": 292,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E HUDSON ST & ONTARIO ST",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -210,9 +199,8 @@
       },
       "properties": {
         "CAMERA_ID": 311,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "750 E LONG ST",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -228,9 +216,8 @@
       },
       "properties": {
         "CAMERA_ID": 331,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LONG ST / N 20TH ST ",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -246,9 +233,8 @@
       },
       "properties": {
         "CAMERA_ID": 341,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LONG ST / N CHAMPION AVE",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -264,9 +250,8 @@
       },
       "properties": {
         "CAMERA_ID": 361,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "MT VERNON AVE / N 20TH ST",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -282,9 +267,8 @@
       },
       "properties": {
         "CAMERA_ID": 351,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "MT VERNON AVE & N MONROE AVE (KINGS ARTS COMPLEX)",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -300,9 +284,8 @@
       },
       "properties": {
         "CAMERA_ID": 411,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LIVINGSTON AVE BETWEEN S 2NND ST & S OHIO AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -318,9 +301,8 @@
       },
       "properties": {
         "CAMERA_ID": 431,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "PARSONS AVE / KOSSUTH ST: WEST OF",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -336,9 +318,8 @@
       },
       "properties": {
         "CAMERA_ID": 441,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E WHITTIER ST / PARSONS AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -354,9 +335,8 @@
       },
       "properties": {
         "CAMERA_ID": 451,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E WHITTIER ST / CARPENTER ST",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -372,9 +352,8 @@
       },
       "properties": {
         "CAMERA_ID": 494,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E WHITTIER ST / WILSON AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -390,9 +369,8 @@
       },
       "properties": {
         "CAMERA_ID": 541,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "S WARREN AVE / SULLIVANT AVE",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -408,9 +386,8 @@
       },
       "properties": {
         "CAMERA_ID": 561,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "S HIGHLAND AVE / SULLIVANT AVE",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -426,9 +403,8 @@
       },
       "properties": {
         "CAMERA_ID": 571,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "CLARENDON AVE / SULLIVANT AVE",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -444,9 +420,8 @@
       },
       "properties": {
         "CAMERA_ID": 421,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LIVINGSTON AVE / MILLER AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -462,9 +437,8 @@
       },
       "properties": {
         "CAMERA_ID": 551,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "SULLIVANT AVE / S WAYNE AVE",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -480,9 +454,8 @@
       },
       "properties": {
         "CAMERA_ID": 621,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "NORTHBANK PARK EVENT BLDG EAST",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -498,9 +471,8 @@
       },
       "properties": {
         "CAMERA_ID": 681,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "GENOA PARK N/O W BROAD ST",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -516,9 +488,8 @@
       },
       "properties": {
         "CAMERA_ID": 696,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "NATIONWIDE BLVD / N FRONT ST; NEC",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -534,9 +505,8 @@
       },
       "properties": {
         "CAMERA_ID": 711,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "CLEVELAND AVE / BELCHER DR",
         "NEIGHBORHOOD": "FAR NORTH"
       }
@@ -552,9 +522,8 @@
       },
       "properties": {
         "CAMERA_ID": 692,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "WASHINGTON BLVD NORTH",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -570,9 +539,8 @@
       },
       "properties": {
         "CAMERA_ID": 297,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "DRESDEN ST / DUXBERRY AVE - SWC",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -588,9 +556,8 @@
       },
       "properties": {
         "CAMERA_ID": 631,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "NORTHBANK PARK EVENT BLDG WEST",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -606,9 +573,8 @@
       },
       "properties": {
         "CAMERA_ID": 661,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "McFERSON PARK ON W SPRING ST",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -624,9 +590,8 @@
       },
       "properties": {
         "CAMERA_ID": 694,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / S FRONT ST : SEC",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -642,9 +607,8 @@
       },
       "properties": {
         "CAMERA_ID": 296,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "DRESDEN ST / E MAYNARD AVE - NWC",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -660,9 +624,8 @@
       },
       "properties": {
         "CAMERA_ID": 671,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "MARCONI BLVD / W BROAD ST; NWC",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -678,9 +641,8 @@
       },
       "properties": {
         "CAMERA_ID": 841,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "COURTRIGHT RD / PETZINGER RD",
         "NEIGHBORHOOD": "FAR EAST"
       }
@@ -696,9 +658,8 @@
       },
       "properties": {
         "CAMERA_ID": 811,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E MAIN ST / S WEYANT AVE",
         "NEIGHBORHOOD": "FAR EAST"
       }
@@ -714,9 +675,8 @@
       },
       "properties": {
         "CAMERA_ID": 697,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / RODGERS AVE: NEC",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -732,9 +692,8 @@
       },
       "properties": {
         "CAMERA_ID": 581,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / S BURGESS AVE - SEC",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -750,9 +709,8 @@
       },
       "properties": {
         "CAMERA_ID": 698,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / STEVENS AVE: NEC",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -768,9 +726,8 @@
       },
       "properties": {
         "CAMERA_ID": 831,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LIVINGSTON AVE / COURTRIGHT RD; WEST OF",
         "NEIGHBORHOOD": "FAR EAST"
       }
@@ -786,9 +743,8 @@
       },
       "properties": {
         "CAMERA_ID": 641,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "NORTHBANK PARK - EAST END ON LONG ST",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -804,9 +760,8 @@
       },
       "properties": {
         "CAMERA_ID": 821,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LIVINGSTON AVE / BEECHWOOD RD",
         "NEIGHBORHOOD": "FAR EAST"
       }
@@ -822,9 +777,8 @@
       },
       "properties": {
         "CAMERA_ID": 695,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E BROAD ST / S HIGH ST",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -840,9 +794,8 @@
       },
       "properties": {
         "CAMERA_ID": 611,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "NORTHBANK PARK UNDER THE RR TRESSEL BRIDGE",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -858,9 +811,8 @@
       },
       "properties": {
         "CAMERA_ID": 693,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "WASHINGTON BLVD SOUTH",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -876,9 +828,8 @@
       },
       "properties": {
         "CAMERA_ID": 651,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "NORTHBANK PARK W SPRING ST / NEIL AVE; SWC",
         "NEIGHBORHOOD": "DOWNTOWN"
       }
@@ -894,9 +845,8 @@
       },
       "properties": {
         "CAMERA_ID": 293,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E HUDSON ST / MCGUFFEY RD",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -912,9 +862,8 @@
       },
       "properties": {
         "CAMERA_ID": 294,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "CLEVELAND AVE / E 13TH AVE (BETWEEN 13TH & WINDSOR",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -930,9 +879,8 @@
       },
       "properties": {
         "CAMERA_ID": 295,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "CLEVELAND AVE / E 23RD AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -948,9 +896,8 @@
       },
       "properties": {
         "CAMERA_ID": 371,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "MT VERNON AVE / GRAHAM ST",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -966,9 +913,8 @@
       },
       "properties": {
         "CAMERA_ID": 471,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "KENT ST / SEYMOUR AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -984,9 +930,8 @@
       },
       "properties": {
         "CAMERA_ID": 481,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "FAIRWOOD AVE / E LIVINSTON AVE: W/O",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1002,9 +947,8 @@
       },
       "properties": {
         "CAMERA_ID": 491,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E MAIN ST BETWEEN S CHAMPION AVE AND OHIO AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1020,9 +964,8 @@
       },
       "properties": {
         "CAMERA_ID": 492,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E RICH ST / S 22ND ST: NWC",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1038,9 +981,8 @@
       },
       "properties": {
         "CAMERA_ID": 493,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E MAIN ST / LILLEY AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1056,9 +998,8 @@
       },
       "properties": {
         "CAMERA_ID": 495,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LIVINGSTON AVE / BULEN AVE",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1074,9 +1015,8 @@
       },
       "properties": {
         "CAMERA_ID": 497,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E WHITTIER ST BETWEEN OAKWOOD & WILSON",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1092,9 +1032,8 @@
       },
       "properties": {
         "CAMERA_ID": 498,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "LOCKBOURNE RD / SMITH RD: NEC",
         "NEIGHBORHOOD": "LIVINGSTON"
       }
@@ -1110,9 +1049,8 @@
       },
       "properties": {
         "CAMERA_ID": 511,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / S TERRACE AVE: SWC",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -1128,9 +1066,8 @@
       },
       "properties": {
         "CAMERA_ID": 521,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "W BROAD ST / S WHEATLAND AVE : SEC",
         "NEIGHBORHOOD": "HILLTOP"
       }
@@ -1146,9 +1083,8 @@
       },
       "properties": {
         "CAMERA_ID": 321,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E LONG ST / N MONROE AVE",
         "NEIGHBORHOOD": "MT VERNON"
       }
@@ -1164,9 +1100,8 @@
       },
       "properties": {
         "CAMERA_ID": 121,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 8TH AVE / N 4TH ST - PTZ",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1182,9 +1117,8 @@
       },
       "properties": {
         "CAMERA_ID": 131,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 8TH AVE / INDIANOLA AVE - PTZ",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1200,9 +1134,8 @@
       },
       "properties": {
         "CAMERA_ID": 141,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 11TH AVE / N 4TH ST - PTZ",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1218,9 +1151,8 @@
       },
       "properties": {
         "CAMERA_ID": 151,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "PETERS AL BETWEEN E 7TH AVE AND E 8TH AVE",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1236,9 +1168,8 @@
       },
       "properties": {
         "CAMERA_ID": 161,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "PETERS AL / E 7TH AVE",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1254,9 +1185,8 @@
       },
       "properties": {
         "CAMERA_ID": 181,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "SUMMIT ST / E 6TH AVE - SEC",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1272,9 +1202,8 @@
       },
       "properties": {
         "CAMERA_ID": 192,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "248 E 11TH AVE - POLICE SUBSTATION",
         "NEIGHBORHOOD": "WEINLAND PARK"
       }
@@ -1290,9 +1219,8 @@
       },
       "properties": {
         "CAMERA_ID": 211,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 5TH AVE & PETERS AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -1308,9 +1236,8 @@
       },
       "properties": {
         "CAMERA_ID": 221,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 11TH AVE & CLEVELAND AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -1326,9 +1253,8 @@
       },
       "properties": {
         "CAMERA_ID": 241,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 15TH AVE & CLEVELAND AVE - CFD STATION 18",
         "NEIGHBORHOOD": "LINDEN"
       }
@@ -1344,9 +1270,8 @@
       },
       "properties": {
         "CAMERA_ID": 251,
-        "marker-symbol": "cinema-15",
+        "marker-symbol": "cinema",
         "marker-color": "#EFBB1A",
-        "stroke": "#00599B",
         "CAM_DESC": "E 18TH AVE & CLEVELAND AVE",
         "NEIGHBORHOOD": "LINDEN"
       }
